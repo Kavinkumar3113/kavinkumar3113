@@ -13,8 +13,7 @@
 
 ---
 
-
-##About me 
+## <span style="font-family: 'Arial', sans-serif;">About me</span> 
 
 - 🌍 **Location**: [Namakkal,TamilNadu]  
 - 💻 I specialize in **Web Development** and **Backend Development**, primarily using **JavaScript**, **React**, **Node.js**, and **Spring**.
@@ -24,7 +23,7 @@
 - 🌱 Currently Learning: Exploring AWS.
 
 <div style="display: flex; gap: 10px;">
-# Technologies Used
+# <span style="font-family: 'Arial', sans-serif;">Technologies Used</span>
 
 ## Frontend
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,29 +46,25 @@
 
 ## Scripting & Misc
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-
-
 </div>
-## GIT status 
+
+## <span style="font-family: 'Arial', sans-serif;">GIT status</span> 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=kavinkumar3113&show_icons=true&theme=tokyonight" alt="Kavin Kumar's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar3113&theme=tokyonight" alt="Kavin Kumar's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumar3113&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
-## 🎯 Future Goals
+## 🎯 <span style="font-family: 'Arial', sans-serif;">Future Goals</span>
 
 - **Deepen expertise** in advanced web development techniques, including both **front-end** and **back-end** technologies.
 - **Contribute more** to open-source projects, particularly in the **full-stack development** and **JavaScript ecosystems**.
 - **Build a community** for sharing knowledge on **modern web development frameworks**, **best practices**, and **software architecture**.
 - **Explore new technologies** like **AI**, **cloud computing**, and how they intersect with **full-stack development**, especially in the areas of **scalability** and **performance**.
 
-
 ---
 
-
-## 🤝 Connect with Me
+## 🤝 <span style="font-family: 'Arial', sans-serif;">Connect with Me</span>
 
 
 <p>
@@ -86,10 +81,9 @@
   </a>
 </p>
 
-
 ---
 
-## 💬 Let's Collaborate!
+## 💬 <span style="font-family: 'Arial', sans-serif;">Let's Collaborate!</span>
 
 I'm always excited to work on innovative projects, especially those in **full-stack development** and **web technologies**. Feel free to reach out for collaboration, project discussions, or to just say hi!
 
@@ -97,6 +91,3 @@ I'm always excited to work on innovative projects, especially those in **full-st
 ---
 
 Created By [KAVINKUMAR ❤️](https://github.com/kavinkumar3113)
-
-
-
