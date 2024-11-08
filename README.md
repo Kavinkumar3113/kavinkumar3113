@@ -21,7 +21,7 @@
 - 🏗️ Currently, I'm focused on building full-stack applications with **React** (Frontend) and **Node.js**/**MySQL** (Backend).
 - 📚 I'm constantly expanding my skills in **Spring Framework**, **Hibernate**, and **JSP**, while also diving deeper into cloud technologies like **AWS** and **Docker**.
 - 🛠️ My goal is to create seamless user experiences with robust, scalable backends while contributing to the wider tech community through open-source.
-🌱 Currently Learning: Exploring AWS.
+- 🌱 Currently Learning: Exploring AWS.
 
 <div style="display: flex; gap: 10px;">
 # Technologies Used
@@ -73,13 +73,13 @@
 
 
 <p>
-  <a href="mailto:jothishmjk.2405@gmail.com">
+  <a href="mailto:kavinkumar3113@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a><br>
-  <a href="https://www.linkedin.com/in/jothiramalingam-manikandan">
+  <a href="https://www.linkedin.com/in/kavinkumar-s-248655291/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a><br>
-  <a href="https://github.com/Joe6905">
+  <a href="https://github.com/Kavinkumar3113">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a><br>
  
@@ -91,7 +91,8 @@
 
 ## 💬 Let's Collaborate!
 
-I'm always excited to work on innovative projects, especially those in **cybersecurity** and **blockchain**. Feel free to reach out for collaboration, project discussions, or to just say hi!
+I'm always excited to work on innovative projects, especially those in **full-stack development** and **web technologies**. Feel free to reach out for collaboration, project discussions, or to just say hi!
+
 
 ---
 
