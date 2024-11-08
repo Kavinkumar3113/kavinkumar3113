@@ -16,12 +16,12 @@
 
 ##About me 
 
-- 🌍 **Location**: [Your Location]  
+- 🌍 **Location**: [Namakkal,TamilNadu]  
 - 💻 I specialize in **Web Development** and **Backend Development**, primarily using **JavaScript**, **React**, **Node.js**, and **Spring**.
 - 🏗️ Currently, I'm focused on building full-stack applications with **React** (Frontend) and **Node.js**/**MySQL** (Backend).
 - 📚 I'm constantly expanding my skills in **Spring Framework**, **Hibernate**, and **JSP**, while also diving deeper into cloud technologies like **AWS** and **Docker**.
 - 🛠️ My goal is to create seamless user experiences with robust, scalable backends while contributing to the wider tech community through open-source.
-- 🌱 **Currently Learning**: Exploring **GraphQL**, **TypeScript**, and improving my understanding of **Microservices Architecture**.
+🌱 Currently Learning: Exploring AWS.
 
 <div style="display: flex; gap: 10px;">
 # Technologies Used
@@ -60,10 +60,11 @@
 
 ## 🎯 Future Goals
 
-- **Deepen expertise** in advanced cryptography and blockchain consensus mechanisms.
-- **Contribute more** to open-source projects, particularly in the **cybersecurity** space.
-- **Build a community** for sharing knowledge on cybersecurity and blockchain.
-- **Explore new technologies** like AI and how they intersect with **security**.
+- **Deepen expertise** in advanced web development techniques, including both **front-end** and **back-end** technologies.
+- **Contribute more** to open-source projects, particularly in the **full-stack development** and **JavaScript ecosystems**.
+- **Build a community** for sharing knowledge on **modern web development frameworks**, **best practices**, and **software architecture**.
+- **Explore new technologies** like **AI**, **cloud computing**, and how they intersect with **full-stack development**, especially in the areas of **scalability** and **performance**.
+
 
 ---
 
@@ -94,7 +95,7 @@ I'm always excited to work on innovative projects, especially those in **cyberse
 
 ---
 
-Created By [KAVIN ❤️](https://github.com/kavinkumar3113)
+Created By [KAVINKUMAR ❤️](https://github.com/kavinkumar3113)
 
 
 
